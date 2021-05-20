@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>NSCameraUsageDescription</key>
+	<string>take your photo</string>
+	<key>CFBundleDisplayName</key>
+	<string>camera</string>
+	<key>CFBundleExecutable</key>
+	<string>camera</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.secure.camera</string>
+	<key>CFBundleName</key>
+	<string>camera</string>
+	<key>CFBundleShortVersionString</key>
+	<string>90.0.4430.212</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.11.0</string>
+</dict>
+</plist>
